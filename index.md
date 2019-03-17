@@ -1,2 +1,2 @@
-#Ezra Savitz
-##Welcome to my personal website!
+# Ezra Savitz
+## Welcome to my personal website!
